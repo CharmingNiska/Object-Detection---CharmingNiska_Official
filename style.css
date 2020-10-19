@@ -1,0 +1,33 @@
+ .heading
+ {
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: lighter;
+ }
+ 
+ .button_bedroom
+ {
+     border-radius: 20px;
+     width: 200;
+     font-family: 'Courier New', Courier, monospace;
+     font-weight: bold;
+    }
+
+    .button_livingroom
+    {
+        border-radius: 20px;
+        width: 200;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+       }
+
+       .button_kpop
+       {
+           border-radius: 20px;
+           width: 200;
+           font-family: 'Courier New', Courier, monospace;
+           font-weight: bold;
+          }
+   
+
+
+   
